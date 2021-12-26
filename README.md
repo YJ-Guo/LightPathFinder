@@ -25,7 +25,7 @@ The money difference between the total cost and the level budget will be saved i
 
 **Click** left and right concurrently to delete the optics
 
-##Game Play Features
+## Game Play Features
 **Resources**
 
 The scene has some static obstacles that light can’t pass through. Besides that, there are also some things where the light can interact with.
@@ -34,7 +34,7 @@ The gift box is a reward for the user when they guide the light to that position
 The train is a punishment and the user should avoid the light to hit it.
 We get two kinds of portals in our game, one is magic ball shaped, the other is door shaped. For the first one, the light will pass through the portal and keep consistent in the original direction. For the second one, the light will stay the same direction relative to the door.
 
-##Optics
+## Optics
 We have three kinds of optics, the glass, the mirror and the secondary emitter.
 
 ![GameTutorial](./DemoResources/mirror.gif)
@@ -46,6 +46,6 @@ We have three kinds of optics, the glass, the mirror and the secondary emitter.
 The light will go through the glass and get a fake refraction effect at the intersection position. The mirror is used to reflect the light. The secondary emitter is used to get an extra ray of light when hitten by the main light. All three optics have a specific cost which users need to control under the budget. They can be placed in the level and manipulated to guide the light to the right position.
 
 
-##Assets/Software Reference
+## Assets/Software Reference
 We used Unreal Engine to develop the game.
 Art assets are obtained from https://www.kenney.nl/assets.
